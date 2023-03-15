@@ -1,0 +1,108 @@
+                            body {
+                            font-family: 'PT Serif', serif;
+                        }
+                        
+                        .bg-yellow {
+                            background: #ffc017;
+                        }
+                        
+                        .border-bottom-dark {
+                            border-bottom: 1px solid rgba(41, 41, 41, 41);
+                        }
+                        
+                        #stay {
+                            margin-left: 0;
+                            color: rgba(8, 8, 8, 1);
+                        }
+                        
+                        #bt {
+                            border-radius: 30%;
+                            background: rgba(25, 25, 25, 1);
+                            border-color: rgba(25, 25, 25, 1);
+                            fill: rgba(255, 255, 255, 1);
+                            color: rgba(255, 255, 255, 1);
+                            border-radius: 99em;
+                            line-height: 24px;
+                            width: 250px;
+                        }
+                        
+                        #pp {
+                            color: rgba(0, 0, 0, 0.8);
+                        }
+                        
+                        #getstarted {
+                            border-radius: 99em;
+                            font-size: 14px;
+                            width: 100px;
+                            margin-left: 15px;
+                        }
+                        
+                        .gmgpgo {
+                            border-radius: 50%;
+                        }
+                        
+                        .btn {
+                            margin-left: auto;
+                            width: 60px;
+                            text-decoration: none;
+                            font-size: small;
+                        }
+                        
+                        #as {
+                            display: inline;
+                            padding-left: 65%;
+                            font-size: small;
+                            margin-top: 100px;
+                        }
+                        
+                        #nick {
+                            display: flex;
+                            margin-top: 70px;
+                            padding-right: 1000px;
+                        }
+                        
+                        #nick img {
+                            border-radius: 50%;
+                        }
+                        
+                        #nic {
+                            margin-top: 0px;
+                            padding-right: 900px;
+                        }
+                        
+                        #ni {
+                            display: inline;
+                            padding-right: 900px;
+                            text-decoration: none;
+                            font-size: 20px;
+                        }
+                        
+                        #ni a {}
+                        
+                        #rows {
+                            border-bottom: 1px solid gray;
+                            width: 100%;
+                        }
+                        
+                        #sc {
+                            display: flex;
+                        }
+                        
+                        #sa {}
+                        
+                        #tarih {
+                            color: gray;
+                            font-size: 10px;
+                        }
+                        
+                        #tarih button {
+                            border-radius: 90em;
+                            border: 1px gray;
+                        }
+                        
+                        #tarih button:hover {
+                            background-color: black;
+                            color: white;
+                        }
+                        
+                        #photo {
